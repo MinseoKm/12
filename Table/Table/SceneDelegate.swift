@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Table
-//
-//  Created by HwangSeungyeon on 2020/08/27.
-//  Copyright © 2020 HwangSeungyeon. All rights reserved.
-//
 
 import UIKit
 
