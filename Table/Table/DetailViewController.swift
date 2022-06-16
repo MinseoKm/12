@@ -1,10 +1,3 @@
-//
-//  DetailViewController.swift
-//  Table
-//
-//  Created by HwangSeungyeon on 2020/08/28.
-//  Copyright © 2020 HwangSeungyeon. All rights reserved.
-//
 
 import UIKit
 
